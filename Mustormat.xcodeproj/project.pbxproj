@@ -507,6 +507,7 @@
 				8E178CB41FB0761C00806236 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8E178CB51FB0761C00806236 /* Build configuration list for PBXNativeTarget "MustormatTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +516,7 @@
 				8E178CB71FB0761C00806236 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8E178CB81FB0761C00806236 /* Build configuration list for PBXNativeTarget "MustormatUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +525,7 @@
 				8E178CBA1FB0761C00806236 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
